@@ -27,3 +27,12 @@ npm run dev
 ```sh
 npm run build
 ```
+
+```
+Pinia is used state management.
+````
+
+```
+This is a simple todo app project using vue js.In this project I have also used firebase for authentication. Using firebase create a Admin user & after that login into the homepage using same email & password . In the homepage I have made a todo-list app for a user to create a todo list. If necessary the user can also update & delete the list.
+
+```
